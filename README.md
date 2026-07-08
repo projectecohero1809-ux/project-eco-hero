@@ -1,3 +1,17 @@
+## 🏆 Institutional Submissions & Tracked Applications
+
+Project Eco Hero has been successfully compiled and submitted across multiple strategic incubation and global fund frameworks for Phase-1 MVP benchmarking and validation:
+
+1. **i-Hub Gujarat (SSIP, Government of Gujarat)** - Under Review for Regional Incubation and Prototype Development Grant.
+2. **USAID - Development Innovation Ventures (DIV)** - Stage 1 (Proof of Concept) Official Grant Application Submitted.
+3. **Epic MegaGrants (Epic Games)** - Technical Engine Evaluation and Developer Support Pipeline.
+4. **AWS Cloud Credits (Amazon Web Services)** - Scalable Infrastructure and Multi-Region Cloud Hosting Evaluation.
+5. **GitHub Open Source Grants (GitHub Fund)** - Open-Source Framework and Level Editor Compliance Auditing.
+
+---
+
+
+
 # project-eco-hero
 A language-independent 3D/2D educational gaming ecosystem focused on child safety, anti-addiction, and global climate action.
 ## 🛠️ Technical Architecture & Core System Loops
